@@ -1,4 +1,4 @@
-JOHN RANDULPH B. GORZON ipt-full-stack-final1-omega.vercel.app
+JOHN RANDULPH B. GORZON https://ipt-full-stack-final.vercel.app
 
 JOHN MICHAEL VINCENT BAJENTING
 JINGLE O. DECIERDO
