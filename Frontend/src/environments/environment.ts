@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'https://intprog-final-backend.onrender.com'
+  apiUrl: 'https://ipt-full-stack-final-sa1o.onrender.com'
 };
 
 /*
