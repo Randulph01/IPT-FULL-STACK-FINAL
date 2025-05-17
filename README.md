@@ -1,3 +1,3 @@
 # INTPROG FINAL PROJECT 
 
-John Cliford Laki https://user-management-system-17ke.vercel.app/
+Jingle O. Decierdo https://ipt-full-stack-final-8bhp.vercel.app

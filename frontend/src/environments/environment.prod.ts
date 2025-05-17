@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://user-management-system-qjpt.onrender.com'
+  apiUrl: 'https://ipt-full-stack-final-1.onrender.com'
 };
